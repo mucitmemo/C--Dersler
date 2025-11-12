@@ -1,0 +1,9 @@
+#include <iostream> 
+using std::cin; // std:: ile başlayan her işlevin daha kısa yaılması için kullanılır.
+using std::cout;
+int main() {
+    cout << "github"; // yazdırmak
+int github; // sayı değişkeni
+    cin >> github ; // giriş (ne yazdıysan o)
+    return 0;
+}
